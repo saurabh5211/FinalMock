@@ -1,0 +1,64 @@
+.navbar {
+    margin-top: 10px;
+    word-spacing: 300px; 
+    background-color: rgb(47, 60, 182);
+    border-radius: 12px;
+}
+
+.mod {
+    font-size: large;
+    font-weight: bold; 
+    font-family: sans-serif;
+    font-style: normal;
+    color: rgb(225, 216, 210);
+}
+
+#head {
+    text-transform: capitalize;
+    text-decoration: underline; 
+    background-color: rgba(231, 223, 139, 0.328);
+    color: red;
+    font-weight: 700;
+    font-size: larger;
+   
+}
+
+    
+
+
+.let
+{
+    font: size 500px;
+   word-spacing: 1200px;
+}
+
+.navbar1 {
+    margin-top: 10px;
+    word-spacing: 300px; 
+    background-color: rgb(224, 218, 44);
+    border-radius: 12px;
+}
+
+.mod1 {
+    font-size: large;
+    font-weight: bold; 
+    font-family: sans-serif;
+    font-style: normal;
+    color: rgb(14, 6, 1);
+}
+.new
+{
+    display: flex;
+    border-radius: 5px;
+
+}
+#arr
+{
+    margin-left: 13px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+     font-size:x-large; 
+     font-weight: 700;
+     text-shadow: 4px 4px 8px rgb(255, 0, 85);
+     color: rgb(28, 49, 211);
+     
+}
